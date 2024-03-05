@@ -4,7 +4,7 @@
 #define MyAppName "Instalador de Programas Jurídicos"
 #define MyAppVersion "1.0"
 #define MyAppPublisher "OAB CE"
-#define MyAppURL "https://oabce.org.br/"
+#define MyAppURL """
 
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application. Do not use the same AppId value in installers for other applications.
